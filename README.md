@@ -23,7 +23,7 @@ PY Subtypes: L²V³E⁴F³
 
 Temperament: Melancholic-Phlegmatic
 
-## Trait Theory / Misc:
+## Trait Theory / Misc
 Big 5: RCOEI
 
 SLOAN: r/C/Oe[I]
