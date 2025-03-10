@@ -11,24 +11,37 @@ Created: 2025-03-09T16:43:47
 ### Socionics, Jungian, MBTI
 ---
 **SCS:** ILE
+
 **SHS:** ILI-CNDH-T
+
 **SWS:** ILI-Ni
+
 **Jungian:** IN(T) (Ni - Ti)
+
 **MBTI:** INTP
+
 ### Enneagram
 ---
 **Naranjo:** Social 5 (SO5)
+
 **Ichazo:** Point 5, 514
+
 ### Psychosophy + Temperaments
 ---
 **PY (SoL):** LVEF
+
 **PY Subtypes:** L²V³E⁴F³
+
 **Temperament:** Melancholic-Phlegmatic
+
 ### Trait Theory / Misc
 ---
 **Big 5:** RCOEI
+
 **SLOAN:** r/C/Oe|I|
+
 **Moral Alignment:** True Neutral
+
 ## Works Cited
 ---
 - “ILE Characteristic” (Classical Socionics): https://augustaproject.wordpress.com/ile-characteristic/
